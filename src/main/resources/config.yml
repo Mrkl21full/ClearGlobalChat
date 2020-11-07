@@ -1,0 +1,17 @@
+# #####   ClearGlobalChat v1.0 - config.yml   ##### #
+# #####      Plugin created by Mrkl21full     ##### #
+# #####            File: config.yml           ##### #
+# #####       All plugin config are here      ##### #
+
+# Enable shorter versions of commands?
+Shorter_Version_Commands: true
+
+# Updater stuff.
+Update:
+  # Determinate if plugin should check for updates.
+  Check_Plugin_Updates: true
+  # Determinate who will receive notifications regarding this update on join (requires 'clearchat.update_check' permission).
+  Notify_Only_Admins: true
+
+# Maayybee for future versions or config update idk really.
+FileVersion: "1.0.0"

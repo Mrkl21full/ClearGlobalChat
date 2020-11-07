@@ -1,0 +1,19 @@
+name: ClearGlobalChat
+version: ${project.version}
+main: me.mrkl21full.ClearGlobalChat
+authors: [ Mrkl21full ]
+description: Plugin for managing chat related stuff
+website: https://github.com/Mrkl21full/ClearGlobalChat
+commands:
+  chat:
+    description: Main plugin command
+  cc:
+    description: Clear all chats
+  cp:
+    description: Clear your chats (alias)
+  cm:
+    description: Disable/Enable chats
+  cr:
+    description: Reload configuration
+  cv:
+    description: Plugin information
